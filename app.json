@@ -10,19 +10,19 @@
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token",
-            "value": ""
+            "value": "5495794770:AAF7DiB9DtzW0g21HjoGZnX11SOhjU8ZYbM"
         },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
-            "value": ""
+            "value": "5615631"
         },
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
-            "value": ""
+            "value": "f65d600ff580456871cfddc086337b7a"
         },
         "API_KEY": {
             "description": "Get API key from https://gplinks.in/member/tools/api",
-            "value": ""
+            "value": "97c5fa355da833d926df0fc4562e7fb62f7263a2"
         }
     },
     "addons": [],
