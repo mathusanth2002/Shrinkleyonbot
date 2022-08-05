@@ -5,12 +5,12 @@
         "telegram",
         "gplink"
     ],
-    "website": "https://github.com/mathusanth15/GPlink-bot",
-    "repository": "https://github.com/mathusanth15/GPlink-bot",
+    "website": "https://github.com/mathusanth2002/Shrinkleyonbot",
+    "repository": "https://github.com/mathusanth2002/Shrinkleyonbot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token",
-            "value": "5495794770:AAF7DiB9DtzW0g21HjoGZnX11SOhjU8ZYbM"
+            "value": "5560923473:AAE6zRzGU8qN38IcyFySKrY9pnF94cfdedU"
         },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
@@ -22,7 +22,7 @@
         },
         "API_KEY": {
             "description": "Get API key from https://gplinks.in/member/tools/api",
-            "value": "97c5fa355da833d926df0fc4562e7fb62f7263a2"
+            "value": "320f4de26a9df67ad35d81f5dbc846cb084d0abb"
         }
     },
     "addons": [],
