@@ -1,6 +1,6 @@
 {
-    "name": "GPlink_Bot",
-    "description": "Make short link by using GPlink API key",
+    "name": "Shrink_Bot",
+    "description": "Make short link by using Shrink API key",
     "keywords": [
         "telegram",
         "gplink"
@@ -21,7 +21,7 @@
             "value": "f65d600ff580456871cfddc086337b7a"
         },
         "API_KEY": {
-            "description": "Get API key from https://gplinks.in/member/tools/api",
+            "description": "Get API key from https://shrinkme.io/member/tools/api",
             "value": "320f4de26a9df67ad35d81f5dbc846cb084d0abb"
         }
     },
