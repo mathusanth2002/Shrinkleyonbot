@@ -1,4 +1,4 @@
-# Linksly-bot
+# Shrink-bot
 Make short link by using [GPlink](https://gplinks.in/) API key
 ### Installation
 
